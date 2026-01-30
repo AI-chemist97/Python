@@ -39,6 +39,6 @@ print(max(dp))
     #     else:
     #         calc(weighthap+things[i][0],i+1,plus+things[i][1])
 
-calc(0,0,0)
+# calc(0,0,0)
 
-print(cals_num)
+# print(cals_num)
